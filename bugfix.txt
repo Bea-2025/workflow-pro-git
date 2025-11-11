@@ -1,0 +1,1 @@
+Description du bug : le texte 'Bonjour' n'était pas affiché dans la page. Solution : ajouter l'instruction print('Bonjour') dans le code 
